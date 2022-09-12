@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(107, 176, 206);
+}
+hr {
+    border-color: black;
+}
+
+h1 {
+  text-align: center;
+}
+.center-image {
+display: block;
+margin: 0 auto;
+}
+p {
+    margin: 0;
+    text-indent: 3ch;
+}
+.text-two {
+    text-align: center;
+}
+li {
+    font-size: 20px;
+}
+h2 {
+    text-align: center;
+}
